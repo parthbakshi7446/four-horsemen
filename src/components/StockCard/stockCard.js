@@ -44,6 +44,9 @@ const useStyles = makeStyles(styles);
 export default function SignalList() {
   const classes = useStyles();
   return (
-    <></>
+    <div>
+      <div>Title</div>
+      <div>body</div>
+    </div>
   );
 }
